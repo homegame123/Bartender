@@ -14,6 +14,20 @@
     color: white;
     margin-top: 50px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 18px;
+    font-size: 28px;
   }
-  
+
+  #wine {
+    background: url('../img/pexels-photo-949587.jpeg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  }
+ 
+  .topnav {
+    text-align: center;
+    border-style: ridge;
+    background-color: BlueViolet;
+    font-size:20px ;
+
+  }
